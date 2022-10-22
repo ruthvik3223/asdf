@@ -24,4 +24,3 @@ while(True):
             bill=bill+(q*20)
     else:
             print("total price: ",bill)
-            break
